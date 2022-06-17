@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi, I'm César!👋
+
+I'm a Junior Full-Stack Web Developer who loves to solve problems and learn everyday .
+
+## About me
+
+## Latest Content
+
+## GitHub Stats
+
+![](https://raw.githubusercontent.com/csriso/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/csriso/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+## Connect
 
 <!--
 **Csriso/Csriso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
