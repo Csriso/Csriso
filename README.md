@@ -6,7 +6,25 @@
 
 I'm a Junior Full-Stack Web Developer who loves to solve problems and learn everyday.
 
-## 📦 Latest Content
+## 👨‍💻 Actually working on...
+
+Some theodinproject.com projects and on my personal portfolio.
+
+## 📦 Recent projects i've worked on
+
+- WeVape - Ironhack final project - Vaping social network 😙💨
+  React && ExpressJS && Javascript && HTML5 && CSS3 && TailwindsCSS
+  Repository: <a href="https://github.com/Csriso/wevape-client">FRONT-END</a> <a href="https://github.com/Csriso/wevape-server">BACK-END</a>
+  Live demo: <a href="https://wevape-ironhack.netlify.app/">DEMO</a>
+- WordGym - Ironhack second project - App to train your english pronunciation 🗣️
+  ExpressJS && HandleBars && Javascript && HTML5 && CSS3 && TailwindsCSS
+  Repository: <a href="https://github.com/Csriso/word-gym">LINK HERE</a>
+  Live demo: <a href="https://word-gym.herokuapp.com/">DEMO</a>
+
+- IronMiner - Ironhack first project - Arcade minigame 🕹️
+  Vanilla Javascript && HTML5 && CSS3
+  Repository: <a href="https://github.com/Csriso/iron-miner">LINK HERE</a>
+  Live demo: <a href="https://csriso.github.io/iron-miner/">DEMO</a>
 
 ## 📊 GitHub Stats
 
