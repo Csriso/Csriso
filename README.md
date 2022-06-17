@@ -34,7 +34,7 @@ Some theodinproject.com projects and on my personal portfolio.
 ## 📈 Other Stats
 
 <a href="https://www.codewars.com/users/csriso">
-![](https://www.codewars.com/users/csriso/badges/large)
+  <img src="https://www.codewars.com/users/csriso/badges/large" alt="Codewars Badge">
 </a>
 
 ## 🔧 Technologies
@@ -54,7 +54,7 @@ Some theodinproject.com projects and on my personal portfolio.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Csriso/Csriso">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/csriso?style=social">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/csriso?style=social" alt="Github Badge">
   </a>
 </div>
 
