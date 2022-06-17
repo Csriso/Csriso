@@ -6,7 +6,7 @@
 
 I'm a Junior Full-Stack Web Developer who loves to solve problems and learn everyday.
 
-## 👨‍💻gi Actually working on...
+## 👨‍💻 Actually working on...
 
 Some theodinproject.com projects and on my personal portfolio.
 
