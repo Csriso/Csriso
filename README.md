@@ -6,25 +6,25 @@
 
 I'm a Junior Full-Stack Web Developer who loves to solve problems and learn everyday.
 
-## 👨‍💻 Actually working on...
+## 👨‍💻gi Actually working on...
 
 Some theodinproject.com projects and on my personal portfolio.
 
 ## 📦 Recent projects i've worked on
 
-- WeVape - Ironhack final project - Vaping social network 😙💨
-  React && ExpressJS && Javascript && HTML5 && CSS3 && TailwindsCSS
-  Repository: <a href="https://github.com/Csriso/wevape-client">FRONT-END</a> <a href="https://github.com/Csriso/wevape-server">BACK-END</a>
-  Live demo: <a href="https://wevape-ironhack.netlify.app/">DEMO</a>
-- WordGym - Ironhack second project - App to train your english pronunciation 🗣️
-  ExpressJS && HandleBars && Javascript && HTML5 && CSS3 && TailwindsCSS
-  Repository: <a href="https://github.com/Csriso/word-gym">LINK HERE</a>
-  Live demo: <a href="https://word-gym.herokuapp.com/">DEMO</a>
+- WeVape - Ironhack final project - Vaping social network 😙💨<br>
+  React && ExpressJS && Javascript && HTML5 && CSS3 && TailwindsCSS<br>
+  Repository: <a href="https://github.com/Csriso/wevape-client">FRONT-END</a> <a href="https://github.com/Csriso/wevape-server">BACK-END</a><br>
+  Live demo: <a href="https://wevape-ironhack.netlify.app/">DEMO</a><br><br>
+- WordGym - Ironhack second project - App to train your english pronunciation 🗣️<br>
+  ExpressJS && HandleBars && Javascript && HTML5 && CSS3 && TailwindsCSS<br>
+  Repository: <a href="https://github.com/Csriso/word-gym">LINK HERE</a><br>
+  Live demo: <a href="https://word-gym.herokuapp.com/">DEMO</a><br><br>
 
-- IronMiner - Ironhack first project - Arcade minigame 🕹️
-  Vanilla Javascript && HTML5 && CSS3
-  Repository: <a href="https://github.com/Csriso/iron-miner">LINK HERE</a>
-  Live demo: <a href="https://csriso.github.io/iron-miner/">DEMO</a>
+- IronMiner - Ironhack first project - Arcade minigame 🕹️<br>
+  Vanilla Javascript && HTML5 && CSS3<br>
+  Repository: <a href="https://github.com/Csriso/iron-miner">LINK HERE</a><br>
+  Live demo: <a href="https://csriso.github.io/iron-miner/">DEMO</a><br><br>
 
 ## 📊 GitHub Stats
 
