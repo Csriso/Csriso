@@ -13,6 +13,10 @@ I'm a Junior Full-Stack Web Developer who loves to solve problems and learn ever
 ![](https://raw.githubusercontent.com/csriso/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/csriso/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+## Other Stats
+
+![](https://www.codewars.com/users/csriso/badges/large)
+
 ## Connect
 
 <!--
