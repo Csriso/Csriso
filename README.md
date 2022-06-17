@@ -1,8 +1,10 @@
 # Hi, I'm César!👋
 
-I'm a Junior Full-Stack Web Developer who loves to solve problems and learn everyday .
+![](https://github.com/Csriso/Csriso/blob/main/banner1.png?raw=true)
 
 ## About me
+
+I'm a Junior Full-Stack Web Developer who loves to solve problems and learn everyday .
 
 ## Latest Content
 
