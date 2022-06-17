@@ -23,7 +23,7 @@ I'm a Junior Full-Stack Web Developer who loves to solve problems and learn ever
   <a href="https://www.linkedin.com/in/cesar-iriso/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/cesar-iriso/">
+  <a href="https://github.com/Csriso/Csriso">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/csriso?style=social">
   </a>
 </div>
