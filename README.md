@@ -2,22 +2,22 @@
 
 ![](https://github.com/Csriso/Csriso/blob/main/banner1.png?raw=true)
 
-## About me
+## 🧑 About me
 
 I'm a Junior Full-Stack Web Developer who loves to solve problems and learn everyday.
 
-## Latest Content
+## 📦 Latest Content
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://raw.githubusercontent.com/csriso/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/csriso/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-## Other Stats
+## 📈 Other Stats
 
 ![](https://www.codewars.com/users/csriso/badges/large)
 
-## Technologies
+## 🔧 Technologies
 
 ![](https://camo.githubusercontent.com/751a9689ee78d223598375a6962910479def3babeb8033812f26b7e370d2bf66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d666666666666266c6f676f436f6c6f723d463744463145266c6f676f3d6a617661736372697074)
 ![](https://camo.githubusercontent.com/84a4532f24c560a34821d77b6f0ad8fd33acf6ba8d8086430ef1ba01cf1ff692/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d323032333241266c6f676f436f6c6f723d363144414642266c6f676f3d7265616374)
