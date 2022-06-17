@@ -33,7 +33,9 @@ Some theodinproject.com projects and on my personal portfolio.
 
 ## 📈 Other Stats
 
+<a href="https://www.codewars.com/users/csriso">
 ![](https://www.codewars.com/users/csriso/badges/large)
+</a>
 
 ## 🔧 Technologies
 
