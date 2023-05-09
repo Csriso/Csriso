@@ -8,7 +8,7 @@ I'm a Junior Full-Stack Web Developer who loves to solve problems and learn ever
 
 ## 👨‍💻 Actually working on...
 
-Full stack developer for Culpass.com and doing 42 cursus
+Full stack developer for Culpass.com and 42 cursus
 
 ## 📦 Recent projects i've worked on
 
