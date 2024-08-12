@@ -15,11 +15,9 @@ Full stack developer for Culpass.com and 42 cursus
 - WeVape - Ironhack final project - Vaping social network 😙💨<br>
   React && ExpressJS && Javascript && HTML5 && CSS3 && TailwindsCSS<br>
   Repository: <a href="https://github.com/Csriso/wevape-client">FRONT-END</a> <a href="https://github.com/Csriso/wevape-server">BACK-END</a><br>
-  Live demo: <a href="https://wevape-ironhack.netlify.app/">DEMO</a><br><br>
 - WordGym - Ironhack second project - App to train your english pronunciation 🗣️<br>
   ExpressJS && HandleBars && Javascript && HTML5 && CSS3 && TailwindsCSS<br>
   Repository: <a href="https://github.com/Csriso/word-gym">LINK HERE</a><br>
-  Live demo: <a href="https://word-gym.herokuapp.com/">DEMO</a><br><br>
 
 - IronMiner - Ironhack first project - Arcade minigame 🕹️<br>
   Vanilla Javascript && HTML5 && CSS3<br>
