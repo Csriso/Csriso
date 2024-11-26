@@ -4,7 +4,7 @@
 
 ## 🧑 About me
 
-I'm a Junior Full-Stack Web Developer who loves to solve problems and learn everyday.
+I'm a Full-Stack Web Developer who loves to solve problems and learn everyday.
 
 ## 👨‍💻 Actually working on...
 
