@@ -1,6 +1,6 @@
 # Hi, I'm César! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://github.com/Csriso/Csriso/blob/main/banner1.png?raw=true)
+![](https://github.com/Csriso/Csriso/blob/main/banner2.png?raw=true)
 
 ## 🧑 About me
 
